@@ -162,7 +162,8 @@ a.menu-link {
 
 #results-section {
     background-image: url(/images/background2.png);
-    width: 100%;
+    background-size: cover;
+    width: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -276,7 +277,7 @@ a.menu-link {
     color: #071629;
 }
 
-.form-group input, .form-group textarea {
+.form-group input {
     border: none;
     box-sizing: none;
     border-bottom: 1px solid #979797;
