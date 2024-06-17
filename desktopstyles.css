@@ -337,3 +337,11 @@ a.menu-link {
     text-align: center;
     margin-top: 4%;
 }
+
+.holberton_school-icon-ic_sound,
+.holberton_school-icon-ic_video,
+.holberton_school-icon-ic_music,
+.holberton_school-icon-ic_hearing {
+    font-size: 90px;
+    color: #FF6565;
+}
