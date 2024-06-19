@@ -374,3 +374,13 @@ a.menu-link {
     font-size: 90px;
     color: #FF6565;
 }
+
+button:hover,
+button:active {
+    opacity: 0.9;
+}
+
+a:hover,
+a:active {
+    color: #FF6565;
+}
